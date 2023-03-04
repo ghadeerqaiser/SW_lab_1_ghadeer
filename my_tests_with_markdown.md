@@ -13,3 +13,13 @@
 - Third item
 
 ![alt text](ser.jpg)
+
+*italicized text*
+
+**bold text**
+
+> blockquote
+
+### My Great  {#custom-id}
+
+[title](https://https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
