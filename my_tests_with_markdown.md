@@ -1,4 +1,4 @@
-# the languag markdown
+# the markdown language
 
 | name | age|
 | ---- | ---|
