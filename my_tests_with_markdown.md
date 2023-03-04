@@ -12,7 +12,7 @@
 - Second item
 - Third item
 
-![alt text](ser.jpg)
+![alt text](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
 
 *italicized text*
 
@@ -22,4 +22,4 @@
 
 ### My Great  {#custom-id}
 
-[title](https://https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
+
